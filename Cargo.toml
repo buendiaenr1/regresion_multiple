@@ -1,0 +1,12 @@
+[package]
+name = "nrmul"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+csv = "1.2"
+linregress = "0.4"
+itertools = "0.10"
+
+
